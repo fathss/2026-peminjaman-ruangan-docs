@@ -13,5 +13,12 @@ Penjelasan mengenai konsep sistem secara keseluruhan.
 2. [**API Specification**](api-spec.md)<br>
 Dokumentasi lengkap mengenai 16 endpoint API yang tersedia.
 
+## Akun untuk Testing (Seeded Data)
+Setelah menjalankan migrasi database dan *seed data*, gunakan akun berikut untuk menguji aplikasi:
+| Role | Username | Password |
+| :--- | :--- | :--- |
+| **Admin** | `admin` | `admin123` |
+| **User** | `user` | `user123` |
+
 ## Author
 Developed By Fathu Alwi Nabiil - 3124600020
