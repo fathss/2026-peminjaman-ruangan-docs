@@ -1,6 +1,9 @@
 # Dokumentasi Peminjaman Ruangan
 Selamat datang di pusat dokumentasi PeminjamanRuangan. Folder ini berisi detail teknis mengenai arsitektur dan integrasi API.
 
+## Website
+* **Production:** https://peminjaman-ruangan.up.railway.app
+
 ## Repository Links
 Untuk memudahkan navigasi antar layanan, silakan akses modul terkait di bawah ini:
 * **Backend (ASP.NET 10):** https://github.com/fathss/2026-peminjaman-ruangan-backend.git
